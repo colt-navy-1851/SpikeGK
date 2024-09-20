@@ -1,6 +1,6 @@
-line one <= start here (the beginning)
-line two
-line three
+line 1 <= start here (the beginning)
+line 2
+line 3
 line 4
 line 5
 line 6
