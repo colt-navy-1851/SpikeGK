@@ -1,4 +1,4 @@
-line 1 <= start here (the beginning)
+line 1 <= start here
 line 2
 line 3
 line 4
